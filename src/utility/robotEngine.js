@@ -58,17 +58,17 @@ export const robotEngine = (mission) => {
 
     for (let C of commSeq.split('')) {
       console.log(`C: `, C);
-      if (C !== 'F') {
-        direction = move(direction, C, x, y);
-      } else {
-        if (isOutOfBounds(move(direction, C, x, y)) !== true) {
-          direction = move(direction, C, x, y);
-        } else if (!isPitFall(x, y)) {
-          lostGrids.push({ x, y });
-        } else {
-          break;
-        }
-      }
+      // if (C !== 'F') {
+      //   direction = move(direction, C, x, y);
+      // } else {
+      //   if (isOutOfBounds(move(direction, C, x, y)) !== true) {
+      //     direction = move(direction, C, x, y);
+      //   } else if (!isPitFall(x, y)) {
+      //     lostGrids.push({ x, y });
+      //   } else {
+      //     break;
+      //   }
+      // }
     }
     console.log(`startPos: `, startPos);
     console.log(`commSeq: `, commSeq);

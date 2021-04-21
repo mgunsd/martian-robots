@@ -1,7 +1,7 @@
 import { Paper, Typography } from '@material-ui/core';
 import { styled } from '@material-ui/core/styles';
 import React from 'react';
-import robot from './assets/mars.gif';
+import robot from 'assets/mars.gif';
 
 export const HeaderBar = styled(Paper)({
   background: '#6CA3A1',
