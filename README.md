@@ -1,4 +1,4 @@
-# Martian-Robots Getting Started with Create React App
+# Martian-Robots
 
 - `yarn create react-app my-app --template typescript`
 - `yarn add @reduxjs/toolkit react-redux`
@@ -6,6 +6,16 @@
 - `yarn add @material-ui/core`
   D3 Library adde to make data graph
 - `yarn add d3 @types/d3`
+
+### Things to do when I could have more time
+
+- robot engine need to be fixed for the best output suitable for the d3 chart
+- robot engine tests and types needed to be fixed.
+- d3 chart should be implemented properley and wired with redux missionData and robot engine.
+- unit tests needed for common UI
+- input fields verifications and error handling need to be done.
+- possible data storage on external db async request.
+- resposive ui improvements.
 
 # Getting Started with Create React App
 
