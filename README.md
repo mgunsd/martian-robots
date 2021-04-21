@@ -7,7 +7,7 @@
   D3 Library adde to make data graph
 - `yarn add d3 @types/d3`
 
-### Things to do when I could have more time
+### Things to do when I have more time
 
 - robot engine need to be fixed for the best output suitable for the d3 chart
 - robot engine tests and types needed to be fixed.
