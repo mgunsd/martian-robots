@@ -2,6 +2,10 @@
 
 - `yarn create react-app my-app --template typescript`
 - `yarn add @reduxjs/toolkit react-redux`
+  Bootstraped with Material Ui Library
+- `yarn add @material-ui/core`
+  D3 Library adde to make data graph
+- `yarn add d3 @types/d3`
 
 # Getting Started with Create React App
 
