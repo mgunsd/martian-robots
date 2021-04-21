@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/martian-robots/static/css/main.4354be1a.chunk.css",
+    "main.js": "/martian-robots/static/js/main.0743a4b0.chunk.js",
+    "main.js.map": "/martian-robots/static/js/main.0743a4b0.chunk.js.map",
+    "runtime-main.js": "/martian-robots/static/js/runtime-main.13948e1d.js",
+    "runtime-main.js.map": "/martian-robots/static/js/runtime-main.13948e1d.js.map",
+    "static/js/2.dd66ca30.chunk.js": "/martian-robots/static/js/2.dd66ca30.chunk.js",
+    "static/js/2.dd66ca30.chunk.js.map": "/martian-robots/static/js/2.dd66ca30.chunk.js.map",
+    "static/js/3.89f62a84.chunk.js": "/martian-robots/static/js/3.89f62a84.chunk.js",
+    "static/js/3.89f62a84.chunk.js.map": "/martian-robots/static/js/3.89f62a84.chunk.js.map",
+    "index.html": "/martian-robots/index.html",
+    "static/css/main.4354be1a.chunk.css.map": "/martian-robots/static/css/main.4354be1a.chunk.css.map",
+    "static/js/2.dd66ca30.chunk.js.LICENSE.txt": "/martian-robots/static/js/2.dd66ca30.chunk.js.LICENSE.txt",
+    "static/media/bg.d57af8cc.webp": "/martian-robots/static/media/bg.d57af8cc.webp",
+    "static/media/mars.891a1e5f.gif": "/martian-robots/static/media/mars.891a1e5f.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13948e1d.js",
+    "static/js/2.dd66ca30.chunk.js",
+    "static/css/main.4354be1a.chunk.css",
+    "static/js/main.0743a4b0.chunk.js"
+  ]
+}
